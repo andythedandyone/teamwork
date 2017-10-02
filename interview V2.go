@@ -86,7 +86,7 @@ func main() {
 	// Un-comment the loop below to see the output on a sorted way.
 	// Without printing to screen you see how fast the function loops through
 
-	//for i, data := range clientList {
-	//	fmt.Println(" ---> ", i, data)
-	//}
+	// for i, data := range clientList {
+	// 	fmt.Println(" ---> ", i, data)
+	// }
 }
